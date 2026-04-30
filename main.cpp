@@ -1,2 +1,2 @@
 #include "warrior.h"
-int MAINFUNCTION() {}
+int MAINFUNC() {}
